@@ -1,0 +1,15 @@
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Tobeto\DenemeCalismasi\ReCapProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

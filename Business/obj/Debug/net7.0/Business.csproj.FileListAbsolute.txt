@@ -1,0 +1,17 @@
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\bin\Debug\net7.0\Business.deps.json
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\bin\Debug\net7.0\Business.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\bin\Debug\net7.0\Business.pdb
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\bin\Debug\net7.0\Entities.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\bin\Debug\net7.0\Entities.pdb
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\obj\Debug\net7.0\Business.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\obj\Debug\net7.0\Business.pdb
+C:\Tobeto\DenemeCalismasi\ReCapProject\Business\obj\Debug\net7.0\ref\Business.dll

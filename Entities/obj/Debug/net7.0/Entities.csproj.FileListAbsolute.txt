@@ -1,0 +1,11 @@
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\bin\Debug\net7.0\Entities.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\Entities.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\ref\Entities.dll

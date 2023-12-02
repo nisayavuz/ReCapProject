@@ -1,6 +1,7 @@
 ﻿using Business.Abstract;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,13 +28,18 @@ namespace Business.Concrete
             } 
             else
             {
-                Console.WriteLine("EKleme işlemi başarısız.");
+                Console.WriteLine("Ekleme işlemi başarısız.");
             }
         }
 
         public List<Car> GetAll()
         {
             return _carDal.GetAll();
+        }
+
+        public List<CarDetailDTO> GetCarDetails()
+        {
+            return _carDal.GetCarDetails();
         }
 
         public List<Car> GetCarsByBrandId(int id)

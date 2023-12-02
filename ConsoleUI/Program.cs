@@ -10,12 +10,28 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            //CarManager carManager = new CarManager( new InMemoryCarDal());
+            //AddNewCar();
+            //GetCarsByBrandId();
+            CarManager carManager = new CarManager(new EfCarDal());
+            foreach (var cars in carManager.GetCarDetails())
+            {
+                Console.WriteLine( cars.CarName + " - " + cars.BrandName);
+            }
 
-            //foreach (var car in carManager.GetAll())
-            //{
-            //    Console.WriteLine(car.DailyPrice);
-            //}
+        }
+
+        private static void GetCarsByBrandId()
+        {
+            CarManager carManager = new CarManager(new EfCarDal());
+
+            foreach (var car in carManager.GetCarsByBrandId(2))
+            {
+                Console.WriteLine(car.Description);
+            }
+        }
+
+        private static void AddNewCar()
+        {
             Car newCar = new Car
             {
                 DailyPrice = 100,
@@ -25,14 +41,9 @@ namespace ConsoleUI
                 Description = "Audi description",
                 ModelYear = 2000,
             };
-            CarManager carManager = new CarManager( new EfCarDal());
+            CarManager carManager = new CarManager(new EfCarDal());
 
             carManager.Add(newCar);
-
-            //foreach (var car in carManager.GetCarsByBrandId(2))
-            //{
-            //    Console.WriteLine(car.Description);
-            //}
         }
     }
 }

@@ -9,3 +9,7 @@ C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\Entities.dll
 C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\refint\Entities.dll
 C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\Entities.pdb
 C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\bin\Debug\net7.0\Core.dll
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\bin\Debug\net7.0\Core.pdb
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\Tobeto\DenemeCalismasi\ReCapProject\Entities\obj\Debug\net7.0\Entities.csproj.CopyComplete

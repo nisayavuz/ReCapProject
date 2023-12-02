@@ -1,5 +1,6 @@
 ﻿using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -44,6 +45,11 @@ namespace DataAccess.Concrete.InMemoryDal
         public List<Car> GetAll(Expression<Func<Car, bool>> filter = null)
         {
             return GetAll(c => c.ColorId == 2);
+        }
+
+        public List<CarDetailDTO> GetCarDetails()
+        {
+            throw new NotImplementedException();
         }
 
         public void Update(Car car)
